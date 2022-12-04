@@ -72,14 +72,24 @@ Five year-olds shouldn't have any business buying land. If you're five and readi
 - Get your own lawyer to draw up your deed of assignment (pay a 10% fee)
 - Congrats! yYou own the land!
 
-This is pretty complicated and a major reason why five-year-olds don't own any lands!
+This is pretty complicated and a major reason why five-year-olds don't own any lands! This and because they do not usually have a lot of money, but let's stick to the agenda here!
 
-Enter BlokTrak
+We've designed a better system. **Bloktrak** uses the **blockchain** to register, **track**, and transfer land deeds. It leverages on non-fungible-tokens (NFTs) to store and maintain secure and immutable records of the geographical and legal information of land and land deeds on the blockchain. This information includes
+- The land details (survey plan data like longitude and latitude coordinates) and;
+- The owners details (the public address of the owner of the land deed).
 
-We've designed a better system:
+These digital land deeds can be easily and securely accessed to prove you're the owner of your property. They can also be transferred easily to another owner on the blockchain without the need for complex legal procedures and the risk of double ownership, fraud and other disputes. 
+
+All of the transfer and ownership history is also stored on the blockchain.
+
+Here's how to use Bloktrak:
 
 - Visit https://bloktrak.vercel.app
-- Connect your wallet (we only support metamask for now)
+- Hit the top right button to connect your wallet (we recommend you use a desktop browser for now)
+- Switch from the default ethereum network to the Mumbai testnet network [here's how](link-to-how-to) 
+
+You can do a bunch of thing here now;
+- Register your land on the blokchain
 
 
 ## Technical overview
