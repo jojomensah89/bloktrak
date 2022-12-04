@@ -1,4 +1,3 @@
-//insert html header with embedded svg logo
 Easily track and verify land ownership on the blockchain
 
 ## Table of Contents
@@ -11,8 +10,6 @@ Easily track and verify land ownership on the blockchain
 - [How it works ELI5](eli5)
 - [Technical Overview](technical-overview)
   - [Tech Stack](tech-stack)
-  - [Dependencies](dependencies)
-  - [List of Packages](list-of-packages)
   - [How it works](how-it-works)
 - [Feedback](feedback)
 - [License](license)
@@ -43,18 +40,13 @@ Bloktrak is developed by a team of [Ignatius Musonda](https://www.twitter.com/ig
 ## Disclaimer
 Bloktrak is currently deployed on the Mumbai Polygon testnet, as we're still testing out, breaking and mending a few things. The testnet works just like the mainnet but you'd be using testnet matic to verify your transactions.
 
-Registering a land deed is currently free but would cost you a bit of gas. It's how the blockchain works if you're new to the blockchain. Here is a link
-//insert mumbai faucet link
-to get some test mumbai matic to register your property. It's completely free! If you still have a problem, please contact us
-//insert twitter dm link
-to send you some free testnet matic for the registration or to just chat about the project!
+Registering a land deed is currently free but would cost you a bit of gas. It's how the blockchain works if you're new to the blockchain. [Here is a link](https://mumbaifaucet.com/) to get some test mumbai matic to register your property. It's completely free! If you still have a problem, [please contact us](https://www.twitter.com/0xdanjuma) to send you some free testnet matic for the registration or to just chat about the project!
 
-We also recommend that you use your desktop browser to use Bloktrak.
-
+We also recommend that you use your desktop browser to access Bloktrak.
 
 ## Demo
 //insert video demo
-//insert website link
+https://bloktrak.vercel.app
 The video above shows a quick walkthrough on how Bloktrack works
 
 ## Explain like I'm 5 - How it works
@@ -101,16 +93,6 @@ You can do a bunch of thing here now;
 - Mongo DB
 - Express.js
 - Node.js
-
-
-## Libraries
-- Third Web
-
-
-## Dependencies
-
-
-## List of Packages
 
 
 ## How it works
