@@ -1,6 +1,5 @@
 //insert html header with embedded svg logo
-<p>Easily track and verify land ownership on the blockchain</p>
-
+Easily track and verify land ownership on the blockchain
 
 ## Table of Contents
 - [Bloktrak](bloktrak-logo)
@@ -30,11 +29,11 @@ Tracking land deeds on the blockchain.
 
 
 ## Contributors
-Bloktrak is developed by a team of Ignatius Musonda, Judith Manyo Ogar, Jojo Mensah, Stephen Oluwasanmi and Joseph Nwosu for the Polygon Africa Bootcamp 2022 Hackathon.
+Bloktrak is developed by a team of [Ignatius Musonda](https://www.twitter.com/ignatius), [Judith Manyo Ogar](https://www.twitter.com/ignatius), [Ebenezer Jojo Mensah](https://www.twitter.com/jojo), [Stephen Oluwasanmi](https://www.twitter.com/steve) and [Joseph Nwosu](https://www.twitter.com/joseph) for the Polygon Africa Bootcamp 2022 Hackathon.
 
 
 ## Features
-- Register land and mint corresponding, unique custom ERC721 tokens as proof of ownership
+- Register land and mint corresponding ERC721 tokens as proof of ownership
 - Query blockchain for land deed ownership and survey plan (meta)data.
 - Transfer land deeds easily
 - Manage land deeds owned by your account
@@ -118,7 +117,7 @@ You can do a bunch of thing here now;
 
 
 ## Feedback
-We'd really appreciate any feedback on this, please reach out on Twitter //insert twitter link
+We'd really appreciate any feedback on this, please reach out on [Twitter](https://www.twitter.com/0xDanjuma) 
 
 
 ## License
