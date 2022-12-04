@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/106992775/205504160-ac08ed5c-f75f-4f78-8cd5-2e26497b9895.svg" align="center" />
+  <h1 align="center">Bloktrak</h1>
+</p>
+
 Easily track and verify land ownership on the blockchain
 
 ## Table of Contents
