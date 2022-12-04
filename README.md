@@ -20,7 +20,7 @@ Land deed registry is famously difficult to track in Africa, it's why the courts
 
 This is why we've built BlokTrak
 
-Bloktrak is a decentralized blockchain platform to securely register, verify, track and transfer land deeds. Its purpose is to simplify the manual process of property registration in Africa by issuing non-fungible tokens to land owners with each land's survey plan data uniquely stored in the metadata of the nft and stored on the Polygon blockchain network.
+Bloktrak is a decentralized blockchain platform to securely register, verify, track and transfer land deeds. Its purpose is to simplify the manual process of property registration in Africa by issuing non-fungible tokens to land owners with each land's survey plan data uniquely stored in the metadata of the NFT and stored on the Polygon blockchain network.
 
 Tracking land deeds on the blockchain.
 
