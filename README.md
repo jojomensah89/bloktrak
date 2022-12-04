@@ -6,12 +6,12 @@
 ## Table of Contents
 - [Bloktrak](#table-of-contents)
 - [Description](#description)
-- [Disclaimer](#disclaimer)
 - [Contributors](#contributors)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
-- [Demo](#demo)
 - [How it works, ELI5](#explain-like-im-5---how-it-works)
+- [Demo](#demo)
+- [Disclaimer](#disclaimer)
 - [Technical Overview](#technical-overview)
 - [Feedback](#feedback)
 - [License](#license)
@@ -31,25 +31,21 @@ Tracking land deeds on the blockchain.
 Bloktrak is developed by a team of [Ignatius Musonda](https://www.twitter.com/ignatius), [Judith Manyo Ogar](https://www.twitter.com/ignatius), [Ebenezer Jojo Mensah](https://www.twitter.com/jojo), [Stephen Oluwasanmi](https://www.twitter.com/steve) and [Joseph Nwosu](https://www.twitter.com/joseph) for the Polygon Africa Bootcamp 2022 Hackathon.
 
 
+## Tech stack
+- Solidity
+- React.js
+- Ethers.js 
+- Mongo DB
+- Express.js
+- Node.js
+
+
 ## Features
 - Register land and mint corresponding ERC721 tokens as proof of ownership
 - Query blockchain for land deed ownership and survey plan (meta)data.
 - Transfer land deeds easily
 - Manage land deeds owned by your account
 - Put up land deed for sale and manage bids
-
-
-## Disclaimer
-Bloktrak is currently deployed on the Mumbai Polygon testnet, as we're still testing out, breaking and mending a few things. The testnet works just like the mainnet but you'd be using testnet matic to verify your transactions.
-
-Registering a land deed is currently free but would cost you a bit of gas. It's how the blockchain works if you're new to the blockchain. [Here is a link](https://mumbaifaucet.com/) to get some test mumbai matic to register your property. It's completely free! If you still have a problem, [please contact us](https://www.twitter.com/0xdanjuma) to send you some free testnet matic for the registration or to just chat about the project!
-
-We also recommend that you use your desktop browser to access Bloktrak.
-
-## Demo
-//insert video demo
-https://bloktrak.vercel.app
-The video above shows a quick walkthrough on how Bloktrack works
 
 ## Explain like I'm 5 - How it works
 Five year-olds shouldn't have any business buying land. If you're five and reading this, please get the assistance of a trusted adult. But then, let's give this a shot! If you've ever bought land, it's a pretty stressful process... especially in Africa. Generally very little premliminary survey has been done, or the survey data is outdated and inaccurate. But, to buy a piece of land, this is usually the process:
@@ -77,24 +73,26 @@ All of the transfer and ownership history is also stored on the blockchain.
 
 Here's how to use Bloktrak:
 
-- Visit https://bloktrak.vercel.app
+- Visit [https://bloktrak.vercel.app](https://bloktrak.vercel.app)
 - Hit the top right button to connect your wallet (we recommend you use a desktop browser for now)
-- Switch from the default ethereum network to the Mumbai testnet network [here's how](link-to-how-to) 
+- Switch from the default ethereum network to the Mumbai testnet network. [If you're new, here's how](https://medium.com/stakingbits/how-to-connect-polygon-mumbai-testnet-to-metamask-fc3487a3871f) 
 
 You can do a bunch of thing here now;
 - Register your land on the blokchain
 
+## Demo
+//insert video demo
+[https://bloktrak.vercel.app](https://bloktrak.vercel.app)
+The video above shows a quick walkthrough on how Bloktrack works
+
+## Disclaimer
+Bloktrak is currently deployed on the Mumbai Polygon testnet, as we're still testing out, breaking and mending a few things. The testnet works just like the mainnet but you'd be using testnet matic to verify your transactions.
+
+Registering a land deed is currently free but would cost you a bit of gas. It's how the blockchain works if you're new to the blockchain. [Here is a link](https://mumbaifaucet.com/) to get some test mumbai matic to register your property. It's completely free! If you still have a problem, [please contact us](https://www.twitter.com/0xdanjuma) to send you some free testnet matic for the registration or to just chat about the project!
+
+We also recommend that you use your desktop browser to access Bloktrak.
 
 ## Technical overview
-
-
-### Tech stack
-- Solidity
-- React.js
-- Ethers.js 
-- Mongo DB
-- Express.js
-- Node.js
 
 
 ### How it works
