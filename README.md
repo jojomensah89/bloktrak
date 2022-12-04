@@ -1,24 +1,20 @@
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/106992775/205504160-ac08ed5c-f75f-4f78-8cd5-2e26497b9895.svg" align="center" />
   <h1 align="left">Easily track and verify land ownership on the blockchain</h1>
 </p>
 
-
-
 ## Table of Contents
-- [Bloktrak](bloktrak-logo)
-- [Description](description)
-- [Contributors](contributors)
-- [Features](features)
-- [Disclaimer](disclaimer)
-- [Demo](demo)
-- [How it works ELI5](eli5)
-- [Technical Overview](technical-overview)
-  - [Tech Stack](tech-stack)
-  - [How it works](how-it-works)
-- [Feedback](feedback)
-- [License](license)
+- [Bloktrak](#table-of-contents)
+- [Description](#description)
+- [Disclaimer](#disclaimer)
+- [Contributors](#contributors)
+- [Tech Stack](#tech-stack)
+- [Features](#features)
+- [Demo](#demo)
+- [How it works, ELI5](#explain-like-im-5---how-it-works)
+- [Technical Overview](#technical-overview)
+- [Feedback](#feedback)
+- [License](#license)
 
 
 ## Description
@@ -92,7 +88,7 @@ You can do a bunch of thing here now;
 ## Technical overview
 
 
-## Tech stack
+### Tech stack
 - Solidity
 - React.js
 - Ethers.js 
@@ -101,7 +97,7 @@ You can do a bunch of thing here now;
 - Node.js
 
 
-## How it works
+### How it works
 
 
 ## Feedback
