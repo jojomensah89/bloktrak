@@ -16,7 +16,6 @@
 - [Feedback](#feedback)
 - [License](#license)
 
-
 ## Description
 Land deed registry famously difficult to track in Africa, it's why the courts are filled with property litigation. Multiple registration, fraudulent sales, and suboptimal systems for transfer of land deeds mean the ownership of too many parcels of land is often left to the whims and caprices of a jury of peers.
 
@@ -26,10 +25,8 @@ Bloktrak is  decentralized blockchain platform to securely register, verify, tra
 
 Tracking land deeds on the blockchain.
 
-
 ## Contributors
 Bloktrak is developed by a team of [Ignatius Musonda](https://www.twitter.com/ignatius), [Judith Manyo Ogar](https://www.twitter.com/ignatius), [Ebenezer Jojo Mensah](https://www.twitter.com/jojo), [Stephen Oluwasanmi](https://www.twitter.com/steve) and [Joseph Nwosu](https://www.twitter.com/joseph) for the Polygon Africa Bootcamp 2022 Hackathon.
-
 
 ## Tech stack
 - Solidity
@@ -38,7 +35,6 @@ Bloktrak is developed by a team of [Ignatius Musonda](https://www.twitter.com/ig
 - Mongo DB
 - Express.js
 - Node.js
-
 
 ## Features
 - Register land and mint corresponding ERC721 tokens as proof of ownership
@@ -94,12 +90,9 @@ We also recommend that you use your desktop browser to access Bloktrak.
 
 ## Technical overview
 
-
 ### How it works
-
 
 ## Feedback
 We'd really appreciate any feedback on this, please reach out on [Twitter](https://www.twitter.com/0xDanjuma) 
-
 
 ## License
