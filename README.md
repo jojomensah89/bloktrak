@@ -78,8 +78,8 @@ Enter BlokTrak
 
 We've designed a better system:
 
-Visit blo
-
+- Visit https://bloktrak.vercel.app
+- Connect your wallet (we only support metamask for now)
 
 
 ## Technical overview
