@@ -1,0 +1,59 @@
+
+*{
+    box-sizing: border-box;
+}  
+
+.blockNavWhole{ 
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 1rem;
+}
+
+.BLinks ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+} 
+.BLinks li {
+    padding-right: 20px;
+} 
+
+.Bbutton{ 
+
+     display: flex;
+     align-items: center;
+     border: 1px solid gray;
+     padding: 0;
+     /* padding: 4px 7px; */
+
+}
+.Bbutton .FontAwesomeIcon{ 
+
+     padding-right: 4px;
+     padding-left: 4px;
+     /* padding: 10px; */
+
+}
+.Bbutton p{ 
+
+     padding-right: 4px;
+     padding-left: 4px;
+     /* padding: 10px; */
+
+}
+.Bbutton .FontAwesomeIconone{ 
+
+     
+     padding-right: 4px;
+     padding-left: 4px;
+     /* padding: 10px; */
+     
+
+}
+
+
+

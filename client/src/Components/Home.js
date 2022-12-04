@@ -1,5 +1,7 @@
 import React from "react";
-import "../Styles/home.css";
+import "../styles/home.css";
+
+
 import polygon from "../media/Polygon logo.svg"
 import chainlink from "../media/Chainlink Logo Blue 1.svg"
 import xfinance from "../media/XF Primary HD Logo - Full 1.svg"
@@ -66,14 +68,14 @@ function Home (){
           <div className="Questions-container">
             <div className="Q/A">
               <h1>Frequently Asked Questions</h1>
-              <Select placeholder="questions asked"
+              {/* <Select placeholder="questions asked"
        
         options={options}
       />
        <Select placeholder="questions asked"
        
        options={options}
-     />
+     /> */}
     
             </div>
           </div>

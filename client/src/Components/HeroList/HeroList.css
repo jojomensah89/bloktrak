@@ -1,0 +1,57 @@
+ 
+
+ *{
+
+    box-sizing: border-box;
+ } 
+
+    .HeroListCover {
+        position: relative;
+        padding-left: 30px;
+        padding-right: 30px;
+        width: 100%; 
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        margin-bottom: 40px;
+        
+        /* column-gap: 10px; */
+    } 
+
+    .HListDetails{ 
+        width: 100%;
+        min-width: 350px;
+        max-width: 351px;
+        margin-right: 30px;
+    }
+
+    .HListImage {
+        
+     
+    
+        min-width: 700px;
+        max-width: 701px;
+        
+        overflow: hidden;
+    }
+    
+    .HListImage img {
+        width: 100%;
+        object-fit: cover;
+
+    }
+
+    .ButtonWording{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .ButtonWording button{
+        border: none;
+        margin: 0;
+        padding: 8px 18px;
+        background-color: rgb(114, 114, 230);
+        border-radius: 3px;
+    }

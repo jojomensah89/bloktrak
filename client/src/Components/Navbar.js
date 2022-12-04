@@ -3,11 +3,11 @@ import {
   connectWallet,
   
  
-} from "..utils/tasks"
+} from "../utils/tasks"
 import {
     BrowserRouter as Router,Link,
   } from "react-router-dom";
-import "../Styles/navbar.css";
+import "../styles/navbar.css";
 import Bloktrak from "../media/Bloktrak logo.svg";
  
   

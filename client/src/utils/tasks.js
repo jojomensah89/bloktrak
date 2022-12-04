@@ -2,7 +2,8 @@ require('dotenv').config();
 const alchemyKey = process.env.REACT_APP_ALCHEMY_KEY;
 const { createAlchemyWeb3 } = require("@alch/alchemy-web3");
 const web3 = createAlchemyWeb3(alchemyKey);
-const contractABI = require('./contractabi.json')
+// const contractABI = require('./contractabi.json')
+const contractABI = require('../contractabi.json')
 const contractAddress = "0xf7cb97756F2280abD8bf939A8c3d52A332D9d28F"
 
 export const connectWallet = async () => {

@@ -1,0 +1,18 @@
+
+
+*{
+    box-sizing: border-box;
+} 
+
+.Bfooter{ 
+    position: relative;
+    background-color: gray;
+    padding: 10px 0;
+    margin-top: 20px;
+
+}
+.Bfooter p{ 
+    padding-left: 40px;
+   
+
+}

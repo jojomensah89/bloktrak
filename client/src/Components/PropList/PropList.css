@@ -1,0 +1,241 @@
+
+.PropListCover{
+    width: 100%;
+    display: flex;
+    /* align-items: center; */
+    justify-content: flex-end;
+    padding-right: 30px;
+    padding-top: 0;
+    top: 0;
+    margin-top: 0;
+    padding-left: 80px;
+
+}
+.propFilter{
+    max-width: 250px;
+    min-width: 200px;
+    margin-right: 30px;
+   
+    /* background-color: red; */
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    /* max-height: 300px; */
+}
+
+.filterHeading{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.filterHeading button{
+     
+    border: 0.5px solid rgba(0, 0, 0,0.15);
+    padding: 6px 20px;
+    border-radius: 3px;
+    background-color: white;
+    
+}
+.filterItem{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.filterItem p{
+   
+ 
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 15px;
+}
+
+/* Card styels */ 
+
+.ListCardsCover{
+    width: 100%;
+}
+
+.listInputFields{
+     width: 100%;
+     display: flex;
+     line-height: 20px;
+     height: 30px;
+     margin-bottom: 6px;
+     /* background-color: red; */
+
+}
+
+.propSearch{ 
+    display: flex;
+    align-items: center;
+    padding-left: 4px;
+    padding-right: 4px;
+    border: 1px solid rgb(233, 227, 227);
+    border-radius: 3px;
+}
+
+.propSort{
+    border: 1px solid  rgb(233, 227, 227);
+    border-radius: 3px;
+    
+}
+
+.listInputFields input{
+    
+     border: none;
+     appearance: none;
+     border-radius: 3px;
+     outline: none;
+
+}
+.listInputFields input::placeholder{
+     
+    /* color: yellow; */
+    
+
+}
+.CardHolderNew{ 
+    background-color: rgb(247, 247, 247);
+    /* background-color: red; */
+    /* padding: 10px 10px 10px 10px; */
+    border-radius: 3px;
+    margin-bottom: 7px;
+    box-shadow: 0 0 20px rgba(0, 0, 0,0.15);
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+}
+
+.NewsCardContainer{ 
+
+  width: 100%; 
+  display: grid;
+  /* padding: 50px 20px;  */
+  background-color: #FFFFFF;
+  grid-template-columns: repeat( auto-fit,minmax(230px,1fr));
+  column-gap: 10px;
+  margin-bottom: 15px;
+  
+
+
+
+}
+.Icons{
+
+      display: flex;
+      margin-bottom: 2px;
+
+} 
+.Icons i{
+
+    font-size: 20px;
+    padding: 0 4px 0 4px;
+
+} 
+
+.CardHolderNew{
+    padding-bottom: 7px;
+}
+
+.CardHolderNew .ImageText { 
+    display: flex; 
+    flex-direction: column;
+    text-align: left; 
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    /* border-top: 1px solid gray; */
+    /* background-color: red; */
+
+} 
+
+.Blocation{ 
+
+    /* padding-left: 20px;
+    padding-right: 20px; */
+    padding: 0 20px;
+    margin: 0;
+
+} 
+                                                            
+
+.BPrice{ 
+
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.CardHolderNew .ImageText p { 
+    
+    /* border-top: 1px solid gray; */
+    /* margin-top: 15px;
+    padding-top: 15px; */
+    /* background-color: red; */
+
+} 
+
+.ImageText{ 
+    margin-bottom: 2px;
+
+}
+
+.ImageText h3{ 
+
+    font-family: 'Josefin Sans', sans-serif; 
+    /* font-size: 24px;
+    font-weight: 700; */
+    /* letter-spacing: 3px; */
+    word-spacing: 0px;
+    /* line-height: 36px;  */
+    color: #4C4C4C;
+}
+
+.ImageHolderThird img{
+
+    width: 100%;
+    object-fit: cover;
+    /* min-height: 350px; */
+    max-height: 350px;
+    overflow: hidden;
+
+
+}
+
+
+.ImageText h1{ 
+    /* line-height: 37.7px;  */  
+
+    font-family: 'Josefin Sans', sans-serif; 
+     font-size: 29px;  
+     /* font-weight:700; */
+     /* line-height: 37.7px;  */
+     letter-spacing: 3.77px;
+     color: #4c4c4c;
+
+   
+} 
+
+.ImageText p{ 
+
+    /* font-family: 'Josefin Sans', sans-serif; 
+    font-size: 17px;
+
+    color: #4C4C4C; */
+}
+
+.moreButtons {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.moreButtons button{
+    border: none;
+    margin: 0;
+    padding: 8px 18px;
+    background-color: rgb(114, 114, 230);
+    border-radius: 3px;
+}
+
