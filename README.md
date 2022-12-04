@@ -77,16 +77,16 @@ You can do a bunch of things here now;
   To register your land
   - Click on your profile on the top right hand corner
   - Click on register new property
-  - Fill out the KYC information to verifiy you're a human (plus, all land belongs to the government under law, and the government would generally like to know who it is leasing land out to). <em>None of your personal KYC data is stored or displayed on the blockchain. We'd ideally encrypt and store the data on our private servers even though we haven't built any for this hackathon</em>
+  - Fill out the KYC information to verifiy you're a human (plus, all land belongs to the government under law, and the government would generally like to know who it is leasing land out to). **<em>None of your personal KYC data is stored or displayed on the blockchain. We'd ideally encrypt and store the data on our private servers even though we haven't built any for this hackathon</em>**
   - Fill our the form with information from your survey plan data
   - Submit to mint your land deed token.
-  <em>It will take a while, as we'd verify that you actually do own the land, truly</em>
+  <em>Ideally, It will take a while, as we'd verify that you actually do own the land, truly, but for the purposes of the hackathon we assume you're legit, because obviously you are!</em>
   After the minting, your brand-new, tear-rubber, digital land deed would be minted to your wallet address.
 
 - ### Buy land deeds
   To make bids on lands
   - Click on your profile on the top right hand corner
-  - Fill out the KYC information to verifiy you're a human (plus, all land belongs to the government under law, and the government would generally like to know who it is leasing land out to). <em>None of your personal KYC data is stored or displayed on the blockchain. We'd ideally encrypt and store the data on our private servers even though we haven't built any for this hackathon</em>
+  - Fill out the KYC information to verifiy you're a human (plus, all land belongs to the government under law, and the government would generally like to know who it is leasing land out to). **<em>None of your personal KYC data is stored or displayed on the blockchain. We'd ideally encrypt and store the data on our private servers even though we haven't built any for this hackathon</em>**.
   - Search for the details of the property you'd like to buy in the search bar
   - Make bids on it and wait for the approval of the previous owner
   - The land deed gets transferred to your wallet
