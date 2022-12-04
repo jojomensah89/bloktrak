@@ -1,0 +1,39 @@
+html{
+    --mainColor:  "#3E8ECC";
+    --linkHover: "#3E8ECC";
+}
+.navbar{
+    display: flex;
+    margin-top: 6px;
+    justify-content: space-around;
+    padding: 1.5rem;
+}
+
+.nav-links{
+    display: flex;
+    
+}
+.nav-links > li{
+    list-style-type: none;
+    padding-right: 12px;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: center;
+    font-weight: 500;
+}
+a{
+    color: rgb(85, 83, 83);
+    
+}
+a:hover {
+    color:#264f70
+
+}
+
+.connectWallet{
+   background-color:#3E8ECC;
+    color: white;
+    border-radius: 8px;
+    border: 5px solid #3E8ECC;
+    padding: 8px;
+}

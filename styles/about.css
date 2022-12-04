@@ -1,0 +1,60 @@
+
+.about-section{
+  padding-left: 2rem;
+  padding-right: 2rem;
+
+}
+.about-container{
+    display: flex;
+    width: 100%;
+    margin-top: 2rem;
+}
+.about-us{
+    width:50%;
+    padding: 2.5rem;
+}
+.about{
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.about-history{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    font-family:'Times New Roman', Times, serif;
+}
+.span{
+    color: #3E8ECC;
+    
+}
+
+
+.video{
+ width: 50%;
+ background-color: cadetblue;
+ border-radius: 8px;
+} 
+.team-section{
+    margin-top: 2rem;
+}
+.team-container{
+    background-color:#EEF5FA;;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    /* padding: 2rem;; */
+    /* margin: auto */
+}
+.team-member{
+    width:30%;
+    display:flex;
+    margin:auto;
+}
+.team-img{
+    background-color: white;
+    
+}
