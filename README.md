@@ -25,7 +25,7 @@ Bloktrak is a decentralized blockchain platform to securely register, verify, tr
 Tracking land deeds on the blockchain.
 
 ## Contributors
-Bloktrak is developed by a team of [Ignatius Musonda](https://www.twitter.com/ignatius), [Judith Manyo Ogar](https://www.twitter.com/ignatius), [Ebenezer Jojo Mensah](https://www.twitter.com/jojo), [Stephen Oluwasanmi](https://www.twitter.com/steve) and [Joseph Nwosu](https://www.twitter.com/joseph) for the Polygon Africa Bootcamp 2022 Hackathon.
+Bloktrak is developed by a team of [Ignatius Musonda](https://www.twitter.com/ignatius), [Judith Manyo Ogar](https://www.twitter.com/ignatius), [Ebenezer Jojo Mensah](https://www.twitter.com/jojo), [Stephen Oluwasanmi](https://www.twitter.com/steve) and [Joseph Nwoye](https://twitter.com/JosephNwoye_) for the Polygon Africa Bootcamp 2022 Hackathon.
 
 ## Tech stack
 - Solidity
